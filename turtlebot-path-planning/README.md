@@ -13,7 +13,10 @@ From naive obstacle avoidance to path planning and motion control using Model Pr
 # Installation
 ```
 git clone https://github.com/KaneIbrahima/PathPlanning_MotionControl
-{copy the ~/PathPlanning_MotionControl/turtlebot-path-planning/ to ~/catkin_ws/src/ }
+```
+copy  ~/PathPlanning_MotionControl/turtlebot-path-planning/ to ~/catkin_ws/src/ 
+
+```
 cd ~/catkin_ws
 catkin_make
 ```
